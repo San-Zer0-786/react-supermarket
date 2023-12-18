@@ -1,0 +1,35 @@
+.basket-totals {
+    .totals-list {
+      list-style: none;
+      padding: 0;
+  
+      .totals-item {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 5px;
+  
+        .item-name {
+          flex: 1;
+        }
+  
+        .item-price {
+          flex-shrink: 0;
+        }
+      }
+    }
+  
+    .total-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+  
+      .total-label {
+        flex: 1;
+      }
+  
+      .total-value {
+        flex-shrink: 0;
+      }
+    }
+  }
+  

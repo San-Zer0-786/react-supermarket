@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Gala Apples (5 lbs)",
+    "description": "Crisp and delicious apples for a healthy snack.",
+    "price": 3.49
+  },
+  {
+    "id": 2,
+    "name": "UK-Grade Ground Beef (1 lb)",
+    "description": "High-quality ground beef for your favorite recipes.",
+    "price": 5.99
+  },
+  {
+    "id": 3,
+    "name": "Organic Milk (1 gallon)",
+    "description": "Nutrient-rich organic milk for the family.",
+    "price": 1.99
+  },
+  {
+    "id": 4,
+    "name": "Fresh Broccoli (per bunch)",
+    "description": "Tender broccoli for steaming or roasting.",
+    "price": 1.49
+  },
+  {
+    "id": 5,
+    "name": "Free-Range Large Eggs (dozen)",
+    "description": "Farm-fresh eggs for your morning omelette.",
+    "price": 2.29
+  },
+  {
+    "id": 6,
+    "name": "Wholemeal Bread (loaf)",
+    "description": "Nutrient-packed wholemeal bread for sandwiches.",
+    "price": 1.79
+  },
+  {
+    "id": 7,
+    "name": "Scottish Salmon Fillet (per lb)",
+    "description": "Delicious salmon fillet for a healthy dinner.",
+    "price": 12.99
+  },
+  {
+    "id": 8,
+    "name": "Bananas (per lb)",
+    "description": "Sweet and ripe bananas for snacking.",
+    "price": 0.89
+  },
+  {
+    "id": 9,
+    "name": "Fresh Spinach (per bunch)",
+    "description": "Leafy spinach for salads or sautéing.",
+    "price": 1.99
+  },
+  {
+    "id": 10,
+    "name": "Orange Juice (1 litre)",
+    "description": "Freshly squeezed orange juice for a vitamin C boost.",
+    "price": 1.99
+  },
+  {
+    "id": 11,
+    "name": "New Potatoes (1 kg)",
+    "description": "Versatile potatoes for mashing, roasting, or frying.",
+    "price": 1.49
+  },
+  {
+    "id": 12,
+    "name": "Pasta (500g)",
+    "description": "Your favorite pasta for delicious Italian dishes.",
+    "price": 0.99
+  },
+  {
+    "id": 13,
+    "name": "Canned Tomatoes (400g)",
+    "description": "Tomatoes for making sauces and soups.",
+    "price": 0.79
+  },
+  {
+    "id": 14,
+    "name": "Fresh Avocado (each)",
+    "description": "Creamy avocados for guacamole or salads.",
+    "price": 0.99
+  },
+  {
+    "id": 15,
+    "name": "English Breakfast Tea (100 bags)",
+    "description": "Traditional English breakfast tea for a cuppa.",
+    "price": 2.79
+  },
+  {
+    "id": 16,
+    "name": "Cheddar Cheese (250g)",
+    "description": "Sharp cheddar cheese for sandwiches or snacking.",
+    "price": 1.99
+  },
+  {
+    "id": 17,
+    "name": "Strawberries (400g)",
+    "description": "Sweet strawberries for desserts or snacks.",
+    "price": 2.49
+  },
+  {
+    "id": 18,
+    "name": "Chicken Breasts (per lb)",
+    "description": "Lean chicken breasts for grilling or baking.",
+    "price": 6.99
+  },
+  {
+    "id": 19,
+    "name": "Butter (250g)",
+    "description": "Creamy butter for cooking and baking.",
+    "price": 1.49
+  },
+  {
+    "id": 20,
+    "name": "Carrots (per lb)",
+    "description": "Crunchy carrots for snacking or cooking.",
+    "price": 0.89
+  },
+  {
+    "id": 21,
+    "name": "British Red Apples (5 lbs)",
+    "description": "Crisp and delicious apples for a healthy snack.",
+    "price": 3.49
+  },
+  {
+    "id": 22,
+    "name": "Prime Beef Steak (per lb)",
+    "description": "High-quality beef steak for your favorite recipes.",
+    "price": 8.99
+  },
+  {
+    "id": 23,
+    "name": "Organic Whole Milk (1 gallon)",
+    "description": "Nutrient-rich organic milk for the family.",
+    "price": 2.49
+  },
+  {
+    "id": 24,
+    "name": "Fresh Cauliflower (per head)",
+    "description": "Tender cauliflower for roasting or steaming.",
+    "price": 1.99
+  },
+  {
+    "id": 25,
+    "name": "Free-Range Eggs (dozen)",
+    "description": "Farm-fresh eggs for your morning omelette.",
+    "price": 2.79
+  },
+  {
+    "id": 26,
+    "name": "Multigrain Bread (loaf)",
+    "description": "Healthy multigrain bread for sandwiches.",
+    "price": 2.29
+  },
+  {
+    "id": 27,
+    "name": "Scottish Haddock Fillet (per lb)",
+    "description": "Flavorful haddock fillet for a seafood dinner.",
+    "price": 9.49
+  },
+  {
+    "id": 28,
+    "name": "English Bananas (per lb)",
+    "description": "Sweet and ripe bananas for snacking.",
+    "price": 0.89
+  },
+  {
+    "id": 29,
+    "name": "Tender Asparagus (per bunch)",
+    "description": "Tender asparagus spears for roasting or grilling.",
+    "price": 2.49
+  },
+  {
+    "id": 30,
+    "name": "Fresh Orange Juice (1 litre)",
+    "description": "Freshly squeezed orange juice for a vitamin C boost.",
+    "price": 2.29
+  },
+  {
+    "id": 31,
+    "name": "Waxy Potatoes (1 kg)",
+    "description": "Waxy potatoes for salads or boiling.",
+    "price": 1.99
+  },
+  {
+    "id": 32,
+    "name": "Tagliatelle Pasta (500g)",
+    "description": "Tagliatelle pasta for creamy pasta dishes.",
+    "price": 1.29
+  },
+  {
+    "id": 33,
+    "name": "Canned Baked Beans (415g)",
+    "description": "Baked beans in tomato sauce for a hearty meal.",
+    "price": 0.89
+  },
+  {
+    "id": 34,
+    "name": "Fresh Kiwi (each)",
+    "description": "Sweet and tangy kiwi fruit for snacking.",
+    "price": 0.49
+  },
+  {
+    "id": 35,
+    "name": "Earl Grey Tea (100 bags)",
+    "description": "Classic Earl Grey tea with bergamot flavor.",
+    "price": 2.79
+  },
+  {
+    "id": 36,
+    "name": "Stilton Cheese (250g)",
+    "description": "Creamy Stilton cheese for gourmet platters.",
+    "price": 3.49
+  },
+  {
+    "id": 37,
+    "name": "Raspberries (150g)",
+    "description": "Juicy raspberries for desserts or smoothies.",
+    "price": 1.99
+  },
+  {
+    "id": 38,
+    "name": "British Chicken Thighs (per lb)",
+    "description": "Tender chicken thighs for flavorful dishes.",
+    "price": 4.99
+  },
+  {
+    "id": 39,
+    "name": "Salted Butter (250g)",
+    "description": "Salted butter for cooking and baking.",
+    "price": 1.49
+  },
+  {
+    "id": 40,
+    "name": "Fresh Parsnips (per lb)",
+    "description": "Sweet and earthy parsnips for roasting or soups.",
+    "price": 0.99
+  },
+  {
+    "id": 41,
+    "name": "Canned Peas (300g)",
+    "description": "Tender canned peas for side dishes or salads.",
+    "price": 0.69
+  },
+  {
+    "id": 42,
+    "name": "British Strawberries (200g)",
+    "description": "Sweet strawberries for desserts or snacks.",
+    "price": 1.99
+  },
+  {
+    "id": 43,
+    "name": "Organic Free-Range Eggs (dozen)",
+    "description": "Organic farm-fresh eggs for your morning omelette.",
+    "price": 3.49
+  },
+  {
+    "id": 44,
+    "name": "White Bread (loaf)",
+    "description": "Soft white bread for sandwiches.",
+    "price": 1.29
+  },
+  {
+    "id": 45,
+    "name": "Scottish Smoked Salmon (100g)",
+    "description": "Delicate Scottish smoked salmon for a gourmet appetizer.",
+    "price": 4.99
+  },
+  {
+    "id": 46,
+    "name": "English Cucumbers (each)",
+    "description": "Crisp English cucumbers for salads or sandwiches.",
+    "price": 0.79
+  },
+  {
+    "id": 47,
+    "name": "Fresh Lemons (each)",
+    "description": "Tangy lemons for cooking or beverages.",
+    "price": 0.59
+  },
+  {
+    "id": 48,
+    "name": "Classic English Breakfast Tea (100 bags)",
+    "description": "Classic English breakfast tea for a morning pick-me-up.",
+    "price": 2.99
+  },
+  {
+    "id": 49,
+    "name": "Red Leicester Cheese (250g)",
+    "description": "Mild Red Leicester cheese for sandwiches and crackers.",
+    "price": 2.49
+  },
+  {
+    "id": 50,
+    "name": "Blueberries (150g)",
+    "description": "Sweet and antioxidant-rich blueberries for snacking.",
+    "price": 2.29
+  }
+]
